@@ -33,7 +33,7 @@ body{
     flex-wrap: wrap;
     border-radius: 5%;
     margin: 5px;
-    background-color: indianred;
+    border: 1px solid white;
     display: flex;
 }
 
@@ -49,13 +49,14 @@ body{
 #text{
     width: 200px;
     height: 100px;
+    color: white;
     
     font-size: 13px;
     font-family: 'Montserrat', sans-serif;
 
     margin: 5px;
     border-radius: 5%;
-    background-color: purple;
+    border: 1px solid white;
     
     justify-content: center;
     text-align: center;
